@@ -1,7 +1,7 @@
-type: edu
+type: output
 files:
   - name: src/Task.java
     visible: true
-  - name: test/Tests.java
+  - name: test/output.txt
     visible: false
     propagatable: false
