@@ -2,6 +2,10 @@ type: output
 files:
   - name: src/Task.java
     visible: true
+    placeholders:
+      - offset: 145
+        length: 10
+        placeholder_text: /* TODO */
   - name: test/output.txt
     visible: false
     propagatable: false
