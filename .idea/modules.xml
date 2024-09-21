@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/introduction-to-java.iml" filepath="$PROJECT_DIR$/.idea/modules/introduction-to-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fundamentals/Hello World/introduction-to-java.Fundamentals-Hello_World.iml" filepath="$PROJECT_DIR$/.idea/modules/Fundamentals/Hello World/introduction-to-java.Fundamentals-Hello_World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fundamentals/Hello World/introduction-to-java.Fundamentals-Hello_World.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Fundamentals/Hello World/introduction-to-java.Fundamentals-Hello_World.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Fundamentals/Hello World/introduction-to-java.Fundamentals-Hello_World.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Fundamentals/Hello World/introduction-to-java.Fundamentals-Hello_World.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/introduction-to-java.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/introduction-to-java.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/introduction-to-java.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/introduction-to-java.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/introduction-to-java.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/introduction-to-java.util.test.iml" />
+    </modules>
+  </component>
+</project>

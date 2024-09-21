@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Fundamentals-Hello_World:test" external.linked.project.path="$MODULE_DIR$/../../../../Fundamentals/Hello World" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="introduction-to-java" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../Fundamentals/Hello World/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../Fundamentals/Hello World/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../Fundamentals/Hello World/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Fundamentals/Hello World/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="introduction-to-java.Fundamentals-Hello_World.main" />
+    <orderEntry type="module" module-name="introduction-to-java.util.main" />
+    <orderEntry type="module" module-name="introduction-to-java.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="introduction-to-java.Fundamentals-Hello_World.main" />
+</module>
